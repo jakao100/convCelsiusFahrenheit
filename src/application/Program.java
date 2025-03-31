@@ -24,8 +24,6 @@ public class Program {
 		catch (InputMismatchException e) {
 			System.out.println("Valor inválido: ");
 		}
-
-
 		sc.close();
 	}
 
